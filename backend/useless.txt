@@ -1,0 +1,5 @@
+venv\Scripts\activate
+http://127.0.0.1:8000/admin
+admin
+npm start
+python manage.py runserver
